@@ -1,4 +1,5 @@
 // Quick Sort Algorithm
+// Use partition
 
 #include <stdio.h>
 

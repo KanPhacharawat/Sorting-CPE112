@@ -1,4 +1,5 @@
 // Merge Sort Algorithm
+// Divide and conquer
 
 #include <stdio.h>
 

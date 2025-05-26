@@ -1,4 +1,5 @@
 // Insertion Sort Algorithm
+// It's like playing cards
 
 #include <stdio.h>
 

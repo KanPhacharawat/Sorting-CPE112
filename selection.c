@@ -1,4 +1,5 @@
 // Selection Sort Algorithm
+// Find min index and repeat the step
 
 #include <stdio.h>
 

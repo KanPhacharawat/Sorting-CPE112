@@ -1,4 +1,5 @@
 // Bubble Sort Algorithm
+// Compare each adjacent element
 
 #include <stdio.h>
 
